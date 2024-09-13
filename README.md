@@ -36,3 +36,8 @@ When you open the app, you will see a collection of images in a slider. You can:
 
 Click "Next" or "Previous" to manually cycle through the images.
 Let the slider automatically transition between images.
+Dependencies
+React: Frontend framework
+CSS Modules or Styled Components: For styling
+React-Slick or similar: For implementing the slider functionality (optional)
+
