@@ -26,3 +26,13 @@ bash
 Copy code
 npm start
 The app will be available at http://localhost:3000.
+
+Usage
+View Slider: The app will display a series of images in a slider format.
+Navigate Between Slides: Use the "Previous" and "Next" buttons to move between images.
+Auto-Slide: The slider will automatically transition between images after a set interval.
+Example
+When you open the app, you will see a collection of images in a slider. You can:
+
+Click "Next" or "Previous" to manually cycle through the images.
+Let the slider automatically transition between images.
